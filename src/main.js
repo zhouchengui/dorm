@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import App from './login.vue'//首页面
+import App from './APP.vue'//首页面
 import router from './router'
 import 'element-plus/dist/index.css' //全局样式
 import * as ElementPlusIconsVue from '@element-plus/icons-vue'
