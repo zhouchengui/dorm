@@ -1,1 +1,2 @@
 # dorm
+npm run dev
