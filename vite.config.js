@@ -19,6 +19,12 @@ export default defineConfig({
     }),
     
   ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+},
+
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
